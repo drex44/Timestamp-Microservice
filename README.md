@@ -1,5 +1,7 @@
 # API Project: Timestamp Microservice for FCC
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/drex44/Timestamp-Microservice.svg)](https://greenkeeper.io/)
+
 ### User stories :
 
 1. The API endpoint is `GET [project_url]/api/timestamp/:date_string`
